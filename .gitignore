@@ -14,7 +14,6 @@
 .cxx
 /gradle/wrapper/gradle-wrapper.properties
 /gradle.properties
-/settings.gradle
 /.idea
 /gradle/
 /gradlew
