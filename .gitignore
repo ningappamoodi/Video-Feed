@@ -13,7 +13,6 @@
 .externalNativeBuild
 .cxx
 /gradle/wrapper/gradle-wrapper.properties
-/gradle.properties
 /.idea
 /gradle/
 /gradlew
